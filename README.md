@@ -1,4 +1,4 @@
-👋 Hey, I’m Uche
+### 👋 Hey, I’m Uche
 
 I'm a Full Stack Web Developer who thrives at the intersection of creativity and logic. I specialize in building responsive, real-world web applications with clean backends, intuitive frontends, and seamless user experiences.
 
@@ -40,9 +40,9 @@ I believe in building for the user, learning by doing, and collaborating across 
 
 🌐 Let’s Connect
 
-Twitter: [@slimzy92733] — Daily dev logs, challenges, and progress
+Twitter: @slimzy92733 — Daily dev logs, challenges, and progress
 
-GitHub: [github.com/slimzyBoom]
+GitHub: [slimzyBoom](github.com/slimzyBoom)
 
-LinkedIn: [https://www.linkedin.com/in/favour-uchechukwu-2210ba250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+LinkedIn: [favour-uchechukwu](https://www.linkedin.com/in/favour-uchechukwu-2210ba250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
