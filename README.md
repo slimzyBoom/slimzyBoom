@@ -32,9 +32,7 @@ I believe in building for the user, learning by doing, and collaborating across 
 
 🌐 Let’s Connect
 
-Twitter: @slimzy92733 — Daily dev logs, challenges, and progress
-
-GitHub: [slimzyBoom](github.com/slimzyBoom)
+Twitter: [favour uchechukwu](https://x.com/slimzy92733) — Daily dev logs, challenges, and progress
 
 LinkedIn: [favour-uchechukwu](https://www.linkedin.com/in/favour-uchechukwu-2210ba250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
