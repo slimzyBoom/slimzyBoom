@@ -8,19 +8,11 @@ I'm a Full Stack Web Developer who thrives at the intersection of creativity and
 
 🛠 Frontend Capable — Vue.js (Composition API), Tailwind CSS
 
-⚡ Real-Time & Scalable Systems — Redis, WebSockets, Google Calendar integration
+⚡ Real-Time & Scalable Systems — Redis, WebSockets
 
 🧪 Test-Driven Mindset — Jest, Mocks & Spies for behavior-driven development
 
 📊 Data Modeling & APIs — RESTful API design, MongoDB queries, and UML diagrams
-
-🚀 Current Projects
-
-🎓 LectureSync — A hybrid academic platform syncing lectures, notifications, and resources
-
-🕹 Casual Web Game Platform — Building multiplayer trivia and card games with Socket.IO and real-time logic
-
-🧩 Trials of the Protocol — Sharpening my skills in TypeScript, system design, and architectural thinking
 
 🎯 My Goals
 
